@@ -7,4 +7,4 @@ This Website contains all Functions such as Transfer, Withdraw, Request Loan etc
 2) username - jd
    pin - 2222
    
-You can login with any one of the Credentials and use the functionalities. 
+You can login with any one of the Credentials and use the functionalities after opening index.html. 
